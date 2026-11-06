@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+output/
+.venv/
+.uv-cache/
+dataset_for_project/
+data/

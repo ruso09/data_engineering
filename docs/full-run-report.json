@@ -1,0 +1,63 @@
+{
+  "started_utc": "2026-11-06T10:40:35.978964+00:00",
+  "tables": {
+    "customers": {
+      "rows": 25000,
+      "sha256": "fde1b223b1e3c5d44105b9da1deb20973a1f4943fec491a913b1695846daee26"
+    },
+    "products": {
+      "rows": 550,
+      "sha256": "0c08877f3cb65729e56b5134baefb4fdd16c60e0cf58132d1784d39331695843"
+    },
+    "orders": {
+      "rows": 100000,
+      "sha256": "c027e0ebc8b77ad6c474ef3a27e6f179f7e31a106f04f93bf98b758e6f8ee3ca"
+    },
+    "order_items": {
+      "rows": 254331,
+      "sha256": "0c98fb1960325b43e0964d8686729ed6423b3201a256df20d3a2db561f02bb81"
+    },
+    "payments": {
+      "rows": 100000,
+      "sha256": "d6bdbe75e86b55eb0dbca92bea209ff5ad1aded3418a33ba8c1bbf1701449cf0"
+    },
+    "shipments": {
+      "rows": 89681,
+      "sha256": "674c814090929446b786c8c4acf8f359ff3d188e631606699da12538bf12301a"
+    },
+    "returns": {
+      "rows": 12075,
+      "sha256": "0ba44e2fec0d0dfcf33d3b1dac5bf4214de5366754d91a5dba1bdb2bdbf5d6e3"
+    },
+    "customer_reviews": {
+      "rows": 77530,
+      "sha256": "768c18452bacd7f6c08a2f04fb43139bf2762c90e64fe1cdaff54742467f577a"
+    },
+    "marketing_campaigns": {
+      "rows": 151,
+      "sha256": "6ae163c3561fde307afaaec9ec10686a10d63da8fb2caac447747f9f070d7173"
+    }
+  },
+  "checks": {
+    "orders.customer_id_foreign_key": 0,
+    "orders.campaign_id_foreign_key": 0,
+    "order_items.order_id_foreign_key": 0,
+    "order_items.product_id_foreign_key": 0,
+    "payments.order_id_foreign_key": 0,
+    "shipments.order_id_foreign_key": 0,
+    "returns.order_id_foreign_key": 0,
+    "returns.customer_id_foreign_key": 0,
+    "returns.product_id_foreign_key": 0,
+    "customer_reviews.order_id_foreign_key": 0,
+    "customer_reviews.customer_id_foreign_key": 0,
+    "customer_reviews.product_id_foreign_key": 0,
+    "payment_order_grain": 0,
+    "shipment_order_grain": 0,
+    "order_line_reconciliation": 0,
+    "order_total_reconciliation": 0,
+    "positive_quantity": 0,
+    "payment_refund_bounds": 0,
+    "shipment_dates": 0
+  },
+  "completed_utc": "2026-11-06T10:41:17.040633+00:00"
+}

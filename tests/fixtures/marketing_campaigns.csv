@@ -1,0 +1,30 @@
+campaign_id,campaign_name,channel,campaign_start_date,campaign_end_date,campaign_type,target_segment,discount_percentage,conversions,revenue_generated,impressions,clicks,campaign_cost,roi
+CAMP1007,Affiliate Seasonal Sale Feb 2023,Affiliate,2023-02-05,2023-02-21,Loyalty Program,Premium,15,51,1168263.89,13344,840,520021.92,1.247
+CAMP1008,Social Media - Facebook Flash Sale Feb 2023,Social Media - Facebook,2023-02-09,2023-02-20,Clearance Sale,Budget,15,33,772654.06,72338,1384,708602.54,0.09
+CAMP1010,Paid Search New Product Launch Mar 2023,Paid Search,2023-03-06,2023-03-19,Loyalty Program,Budget,30,106,2900065.56,55744,2242,831390.79,2.488
+CAMP1028,Social Media - Instagram Flash Sale Jul 2023,Social Media - Instagram,2023-07-02,2023-07-13,Retargeting,Premium,10,116,2476147.59,208614,4005,1837127.86,0.348
+CAMP1043,Social Media - Facebook Brand Awareness Nov 2023,Social Media - Facebook,2023-11-05,2023-11-13,New Product Launch,Budget,20,111,2282681.18,288402,4823,1329287.59,0.717
+CAMP1055,Paid Search Seasonal Sale Feb 2024,Paid Search,2024-02-03,2024-02-18,Brand Awareness,Premium,15,166,4110052.21,78590,3144,1303767.74,2.152
+CAMP1068,Direct/App Clearance Sale May 2024,Direct/App,2024-05-01,2024-05-20,Retargeting,Premium,5,159,4534264.53,3758,1111,642045.25,6.062
+CAMP1069,Referral Clearance Sale May 2024,Referral,2024-05-08,2024-05-28,Loyalty Program,All,30,82,1864637.6,2092,485,624550.39,1.986
+CAMP1077,Organic Search New Product Launch Jun 2024,Organic Search,2024-06-07,2024-06-18,Festival Special,All,20,187,4260555.75,12229,2237,773519.18,4.508
+CAMP1082,Organic Search Festival Special Aug 2024,Organic Search,2024-08-07,2024-08-22,Flash Sale,Budget,30,226,6041130.94,13025,2398,1506694.84,3.01
+CAMP1083,Influencer Marketing Loyalty Program Aug 2024,Influencer Marketing,2024-08-05,2024-08-24,Flash Sale,All,25,77,1850890.7,73603,2116,1147704.66,0.613
+CAMP1084,Direct/App Retargeting Aug 2024,Direct/App,2024-08-04,2024-08-22,Retargeting,Regular,30,172,4238555.96,3761,1077,564199.96,6.513
+CAMP1092,Direct/App Flash Sale Oct 2024,Direct/App,2024-10-08,2024-10-28,Festival Special,New,30,264,5801950.94,6282,1919,924919.16,5.273
+CAMP1094,Paid Search New Product Launch Oct 2024,Paid Search,2024-10-09,2024-10-29,New Product Launch,New,25,225,5744164.01,118017,4801,3485616.33,0.648
+CAMP1101,Social Media - Instagram New Product Launch Dec 2024,Social Media - Instagram,2024-12-09,2024-12-15,New Product Launch,All,30,52,1087097.23,99501,1820,573502.21,0.896
+CAMP1104,SMS Marketing Clearance Sale Dec 2024,SMS Marketing,2024-12-05,2024-12-19,Seasonal Sale,New,30,52,2169682.09,6632,728,1614187.34,0.344
+CAMP1109,Affiliate New Product Launch Jan 2025,Affiliate,2025-01-08,2025-01-21,Loyalty Program,Budget,30,87,2240353.31,25090,1585,604656.94,2.705
+CAMP1110,Email Marketing Loyalty Program Feb 2025,Email Marketing,2025-02-08,2025-02-25,Clearance Sale,Regular,15,125,2355689.12,7011,986,461573.61,4.104
+CAMP1111,Affiliate Flash Sale Feb 2025,Affiliate,2025-02-01,2025-02-19,Loyalty Program,Regular,20,74,2064556.4,22571,1237,868767.02,1.376
+CAMP1114,Direct/App Clearance Sale Mar 2025,Direct/App,2025-03-05,2025-03-14,Clearance Sale,Regular,10,126,4074985.16,2831,798,637776.82,5.389
+CAMP1121,Referral Seasonal Sale May 2025,Referral,2025-05-07,2025-05-27,Flash Sale,New,10,145,3325510.81,2977,762,698043.13,3.764
+CAMP1131,SMS Marketing Festival Special Jul 2025,SMS Marketing,2025-07-07,2025-07-23,New Product Launch,All,25,60,1432869.66,9088,849,549157.29,1.609
+CAMP1132,Direct/App New Product Launch Jul 2025,Direct/App,2025-07-03,2025-07-18,Loyalty Program,All,15,209,4416640.07,4809,1478,842853.45,4.24
+CAMP1133,Social Media - Instagram New Product Launch Aug 2025,Social Media - Instagram,2025-08-09,2025-08-16,Clearance Sale,All,30,82,2548145.22,149924,2934,1217412.08,1.093
+CAMP1134,Social Media - Facebook Retargeting Aug 2025,Social Media - Facebook,2025-08-09,2025-08-29,Loyalty Program,All,25,184,4408094.13,346154,6798,5545460.5,-0.205
+CAMP1140,Social Media - Facebook Clearance Sale Sep 2025,Social Media - Facebook,2025-09-08,2025-09-21,New Product Launch,Regular,5,131,4160423.32,288366,4732,1889992.39,1.201
+CAMP1142,Referral Loyalty Program Oct 2025,Referral,2025-10-02,2025-10-20,Clearance Sale,Regular,20,237,6782317.35,5664,1367,1050913.88,5.454
+CAMP1150,Email Marketing Brand Awareness Dec 2025,Email Marketing,2025-12-05,2025-12-18,Festival Special,Budget,20,277,5538352.37,15237,2361,979471.76,4.654
+CAMP1151,Organic Search Loyalty Program Dec 2025,Organic Search,2025-12-08,2025-12-20,Retargeting,Budget,5,700,19254691.73,39916,7452,3117122.03,5.177
